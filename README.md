@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **julianignacioalvarez95@gmail.com**
 
-- 📄 Know about my experiences [v0-julianalvarezprofile.vercel.app/](v0-julianalvarezprofile.vercel.app/)
+- 📄 Know about my experiences [https://julian-alvarez-os.vercel.app/](https://julian-alvarez-os.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
