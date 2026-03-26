@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Agentic AI Systems · LLM Product Design · DevOps Culture · Infrastructure as Code · AI-assisted development**
 
-- 👯 I’m looking to collaborate on **AI Product Copilot (User Feedback → Product Insights)**
-
-- 🤝 I’m looking for help with **Agentic Customer Support Assistant**
+- 👯 I’m looking to collaborate on **AI Powered products**
 
 - 💬 Ask me about **Product Strategy · Product Discovery · Data Analytics for Product · SaaS Platforms · CRM Systems · AI in Product**
 
